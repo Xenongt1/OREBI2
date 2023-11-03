@@ -1,0 +1,54 @@
+{
+    "data":[
+        {   "id":"1",
+            "hostel":"MMOH",
+            "number-of-rooms":"50",
+            "about":"This is a very good hostel for students who are studying in the university of Ghana",
+            "location":"kojokrom",
+            "price":"1000",
+            "image":"/houseImages/house1.jpg"
+        },
+        {   "id":"2",
+            "hostel":"zion",
+            "number-of-rooms":"70",
+            "about":"This is a very good hostel for students who are studying in the university of Ghana",
+            "location":"arhinkofikrom",
+            "price":"2000",
+            "image":"/houseImages/house2.jpeg"
+        },
+        {      "id":"3",
+            "hostel":"angelica",
+            "number-of-rooms":"80",
+            "about":"This is a very good hostel for students who are studying in the university of Ghana",
+            "location":"kwesimintim",
+            "price":"3000",
+            "image":"/houseImages/house3.jpg"
+        },
+        {   "id":"4",
+            "hostel":"Campus hostel",
+            "number-of-rooms":"20",
+            "about":"This is a very good hostel for students who are studying in the university of Ghana",
+            "location":"campus",
+            "price":"1800",
+            "image":"/houseImages/house4.jpg"
+        },
+        {   "id":"5",
+            "hostel":"BROSKI",
+            "number-of-rooms":"200",
+            "about":"This is a very good hostel for students who are studying in the university of Ghana",
+            "location":"Nkrofo",
+            "price":"4000",
+            "image":"/houseImages/house5.jpeg"
+        },
+        {   "id":"6",
+            "hostel":"Fijai hostel",
+            "number-of-rooms":"70",
+            "about":"This is a very good hostel for students who are studying in the university of Ghana",
+            "location":"fijai",
+            "price":"2000",
+            "image":"/houseImages/house6.jpg"
+        }
+        
+        
+    ]
+}

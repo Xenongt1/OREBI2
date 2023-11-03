@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "hostel": "MMOH",
+      "number-of-rooms": "50",
+      "about": "This is a very good hostel for students who are studying in the University of Ghana",
+      "location": "Kojokrom",
+      "price": "1000",
+      "image": "/houseImages/house1.jpg"
+    },
+    {
+      "id": "2",
+      "hostel": "Zion",
+      "number-of-rooms": "70",
+      "about": "This is a very good hostel for students who are studying in the University of Ghana",
+      "location": "Arhinkofikrom",
+      "price": "2000",
+      "image": "/houseImages/house2.jpeg"
+    },
+    {
+      "id": "3",
+      "hostel": "Angelica",
+      "number-of-rooms": "80",
+      "about": "This is a very good hostel for students who are studying in the University of Ghana",
+      "location": "Kwesimintim",
+      "price": "3000",
+      "image": "/houseImages/house3.jpg"
+    },
+    {
+      "id": "4",
+      "hostel": "Campus Hostel",
+      "number-of-rooms": "20",
+      "about": "This is a very good hostel for students who are studying in the University of Ghana",
+      "location": "Campus",
+      "price": "1800",
+      "image": "/houseImages/house4.jpg"
+    },
+    {
+      "id": "5",
+      "hostel": "BROSKI",
+      "number-of-rooms": "200",
+      "about": "This is a very good hostel for students who are studying in the University of Ghana",
+      "location": "Nkrofo",
+      "price": "4000",
+      "image": "/houseImages/house5.jpeg"
+    },
+    {
+      "id": "6",
+      "hostel": "Fijai Hostel",
+      "number-of-rooms": "70",
+      "about": "This is a very good hostel for students who are studying in the University of Ghana",
+      "location": "Fijai",
+      "price": "2000",
+      "image": "/houseImages/house6.jpg"
+    },
+    {
+      "id": "7",
+      "hostel": "University Lodge",
+      "number-of-rooms": "60",
+      "about": "This is a well-located hostel for students near the University of Ghana.",
+      "location": "Legon",
+      "price": "1500",
+      "image": "/houseImages/house7.jpg"
+    },
+    {
+      "id": "8",
+      "hostel": "Golden Heights",
+      "number-of-rooms": "45",
+      "about": "A cozy hostel with a great view for students studying at the University of Ghana.",
+      "location": "Adenta",
+      "price": "1600",
+      "image": "/houseImages/house8.jpg"
+    },
+    {
+      "id": "9",
+      "hostel": "Academic Haven",
+      "number-of-rooms": "55",
+      "about": "A peaceful hostel ideal for students seeking a quiet environment for studying.",
+      "location": "Haatso",
+      "price": "1700",
+      "image": "/houseImages/house9.jpg"
+    },
+    {
+      "id": "10",
+      "hostel": "Sunrise View",
+      "number-of-rooms": "30",
+      "about": "Wake up to a beautiful sunrise view at this hostel near the University of Ghana.",
+      "location": "Atomic",
+      "price": "1400",
+      "image": "/houseImages/house10.jpg"
+    },
+    {
+      "id": "11",
+      "hostel": "Lighthouse Residences",
+      "number-of-rooms": "65",
+      "about": "This hostel offers a unique living experience with its lighthouse-inspired design.",
+      "location": "Dansoman",
+      "price": "1900",
+      "image": "/houseImages/house11.jpg"
+    },
+    {
+      "id": "12",
+      "hostel": "Lakefront Estates",
+      "number-of-rooms": "40",
+      "about": "Live by the serene lakeside at this peaceful student hostel.",
+      "location": "Teshie",
+      "price": "1750",
+      "image": "/houseImages/house12.jpg"
+    },
+    {
+      "id": "13",
+      "hostel": "Prestige Suites",
+      "number-of-rooms": "75",
+      "about": "Experience the prestige of this well-appointed student hostel near the University of Ghana.",
+      "location": "East Legon",
+      "price": "2200",
+      "image": "/houseImages/house13.jpg"
+    },
+    {
+      "id": "14",
+      "hostel": "Oasis Haven",
+      "number-of-rooms": "50",
+      "about": "Find your oasis of comfort and tranquility at this student hostel.",
+      "location": "Kanda",
+      "price": "1600",
+      "image": "/houseImages/house14.jpg"
+    },
+    {
+      "id": "15",
+      "hostel": "Harmony Residences",
+      "number-of-rooms": "60",
+      "about": "Live in harmony with fellow students at this lovely residence.",
+      "location": "Osu",
+      "price": "1900",
+      "image": "/houseImages/house15.jpg"
+    },
+    {
+      "id": "16",
+      "hostel": "Greenfield Apartments",
+      "number-of-rooms": "55",
+      "about": "Enjoy the green fields surrounding this beautiful student apartment.",
+      "location": "Tema",
+      "price": "1800",
+      "image": "/houseImages/house16.jpg"
+    },
+    {
+      "id": "17",
+      "hostel": "Skyline Towers",
+      "number-of-rooms": "70",
+      "about": "Live in style with a view from the skyline at this towering student residence.",
+      "location": "Airport Residential Area",
+      "price": "2100",
+      "image": "/houseImages/house17.jpg"
+    },
+    {
+      "id": "18",
+      "hostel": "Palm Grove Estates",
+      "number-of-rooms": "45",
+      "about": "Live in a peaceful and palm-filled environment at this student estate.",
+      "location": "East Airport",
+      "price": "1650",
+      "image": "/houseImages/house18.jpg"
+    },
+    {
+      "id": "19",
+      "hostel": "Emerald Heights",
+      "number-of-rooms": "60",
+      "about": "Live at the heights of emerald greenery in this serene student residence.",
+      "location": "Ridge",
+      "price": "1900",
+      "image": "/houseImages/house19.jpg"
+    },
+    {
+      "id": "20",
+      "hostel": "Cityscape Residences",
+      "number-of-rooms": "80",
+      "about": "Experience the urban vibes at these stylish cityscape residences near the University of Ghana.",
+      "location": "Cantonments",
+      "price": "2500",
+      "image": "/houseImages/house20.jpg"
+    }
+  ]
+}
